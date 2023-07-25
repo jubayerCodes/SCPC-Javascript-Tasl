@@ -13,6 +13,6 @@ const makeReverse = (str) => {
   return reverseStr;
 };
 
-const reverseStr = makeReverse("Jubayer hossain");
+const reverseStr = makeReverse("oreh gnimmargorp");
 
 console.log(reverseStr);
