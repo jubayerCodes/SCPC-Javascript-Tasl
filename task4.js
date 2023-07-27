@@ -27,7 +27,7 @@ const findTwoIndicesWithSum = (numbers, target) => {
   }
 };
 
-const sortedArray = [1, 2, 45, 97, 100];
+const sortedArray = [1, 2, 45, 98, 100];
 const targetValue = 100;
 const indices = findTwoIndicesWithSum(sortedArray, targetValue);
 console.log(indices);
